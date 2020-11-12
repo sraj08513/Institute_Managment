@@ -1,1 +1,1 @@
-# Institute_Managment
+# Institute_Managment System
